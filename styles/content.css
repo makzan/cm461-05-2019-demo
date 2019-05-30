@@ -3,3 +3,10 @@ main.content {
 	background: lightgrey;
 }
 
+main button {
+	/* Make button a circle shape. Assuming 100px radius. */
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
