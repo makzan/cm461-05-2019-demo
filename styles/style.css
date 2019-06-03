@@ -1,6 +1,10 @@
 body {
 	background: yellow;
+	color: black;
 }
 h1 {
 	font-size: 1em;
+}
+p {
+        margin: auto;
 }
